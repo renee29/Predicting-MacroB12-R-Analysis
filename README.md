@@ -97,7 +97,7 @@ If you use this code or data in your research, please cite our study:
 
 [Placeholder for your full paper citation once available. Example: Frías-Ruiz, C., Gálvez-Navas, J.M., et al. (Year). Predicting MacroB12: Data-Driven Assessment of Pre-PEG B12 Utility and Clinical Caveats. *Journal Name*, Volume(Issue), Pages. DOI: XXXXXX]
 
-This repository is archived on Zenodo: [AÑADE TU DOI DE ZENODO AQUÍ DESPUÉS DE ARCHIVAR]
+This repository is archived on Zenodo: https://doi.org/10.5281/zenodo.15420222
 
 ## Contact
 
